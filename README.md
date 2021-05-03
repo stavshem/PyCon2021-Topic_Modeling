@@ -1,6 +1,6 @@
 # PyCon 2021 - Topic Modeling
-<p align="center">
 <a href="https://githubtocolab.com/stavshem/PyCon2021-Topic_Modeling/blob/main/Topic_Modeling.ipynb" target="_parent">
+<p align="center">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
   <img src="./img/topic_clustering.png" alt="Topics Clustering" width="425">
 </p>
